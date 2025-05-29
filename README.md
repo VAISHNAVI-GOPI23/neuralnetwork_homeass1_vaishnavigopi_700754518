@@ -19,7 +19,7 @@ This project includes 3 TensorFlow tasks:
   
 
 ## 📽️ Demo Video
-Link: [Insert Google Drive or YouTube video link here]
+Link: https://drive.google.com/file/d/14GRjUnWNjrQZkpyUd2_heOwJ__CvPS1Q/view?usp=drivesdk
 
 ## 📝 How to Run
 1. Open the notebooks in Google Colab.
